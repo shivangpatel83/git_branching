@@ -64,7 +64,7 @@ a{
 }
 
 .small-box{
-    background-color:rgb(170, 194, 14);
+    background-color:rgb(14, 122, 194);
     display: grid;
     place-items: center;
     box-shadow: tomato;
