@@ -43,6 +43,7 @@ a{
     grid-template-rows: 1fr 1fr;
 }
 .center_content .big-box{
+    
     grid-area: 1/1/-1/2;
     min-height: 400px;
     padding: 3rem;
